@@ -18,9 +18,7 @@ class Adapter(val context: Context) : ListAdapter<Paises, Adapter.ViewHolder>(Di
     inner class ViewHolder(private val view: View) : RecyclerView.ViewHolder(view) {
         val nombrePais: TextView = view.findViewById(R.id.item_nombre)
         val banderaPais: ImageView = view.findViewById(R.id.item_img)
-        val capitalPais: TextView = view.findViewById(R.id.item_capital)
         val poblacionPais: TextView = view.findViewById(R.id.item_poblacion)
-        val continentePais: TextView = view.findViewById(R.id.item_continente)
         val paisajePais: ImageView = view.findViewById(R.id.item_paisaje)
 
 
