@@ -38,6 +38,19 @@ class MainActivity : AppCompatActivity() {
             Paises(5, Bandera.PITALIA,"Italia","Roma",58940000,"Europa","https://img.freepik.com/fotos-premium/paisaje-serie-italia_287743-526.jpg"),
             Paises(6, Bandera.PFRANCIA,"Francia","Paris",67970000,"Europa","https://humanidades.com/wp-content/uploads/2018/09/francia-3-800x414.jpg"),
             Paises(7, Bandera.PMEXICO,"Mexico","Mexico",127500000,"America","https://blog.vivaaerobus.com/wp-content/uploads/2020/04/paisajes-de-mexico.jpg"),
-        )
+            Paises(8, Bandera.PFRANCIA,"Francia","Paris",67970000,"Europa","https://humanidades.com/wp-content/uploads/2018/09/francia-3-800x414.jpg"),
+            Paises(9, Bandera.PFRANCIA,"Francia","Paris",67970000,"Europa","https://humanidades.com/wp-content/uploads/2018/09/francia-3-800x414.jpg"),
+            Paises(10, Bandera.PFRANCIA,"Francia","Paris",67970000,"Europa","https://humanidades.com/wp-content/uploads/2018/09/francia-3-800x414.jpg"),
+            Paises(11, Bandera.PFRANCIA,"Francia","Paris",67970000,"Europa","https://humanidades.com/wp-content/uploads/2018/09/francia-3-800x414.jpg"),
+            Paises(12, Bandera.PFRANCIA,"Francia","Paris",67970000,"Europa","https://humanidades.com/wp-content/uploads/2018/09/francia-3-800x414.jpg"),
+            Paises(13, Bandera.PFRANCIA,"Francia","Paris",67970000,"Europa","https://humanidades.com/wp-content/uploads/2018/09/francia-3-800x414.jpg"),
+            Paises(14, Bandera.PFRANCIA,"Francia","Paris",67970000,"Europa","https://humanidades.com/wp-content/uploads/2018/09/francia-3-800x414.jpg"),
+            Paises(15, Bandera.PFRANCIA,"Francia","Paris",67970000,"Europa","https://humanidades.com/wp-content/uploads/2018/09/francia-3-800x414.jpg"),
+            Paises(16, Bandera.PFRANCIA,"Francia","Paris",67970000,"Europa","https://humanidades.com/wp-content/uploads/2018/09/francia-3-800x414.jpg"),
+            Paises(17, Bandera.PFRANCIA,"Francia","Paris",67970000,"Europa","https://humanidades.com/wp-content/uploads/2018/09/francia-3-800x414.jpg"),
+            Paises(18, Bandera.PFRANCIA,"Francia","Paris",67970000,"Europa","https://humanidades.com/wp-content/uploads/2018/09/francia-3-800x414.jpg"),
+            Paises(19, Bandera.PFRANCIA,"Francia","Paris",67970000,"Europa","https://humanidades.com/wp-content/uploads/2018/09/francia-3-800x414.jpg"),
+            Paises(20, Bandera.PFRANCIA,"Francia","Paris",67970000,"Europa","https://humanidades.com/wp-content/uploads/2018/09/francia-3-800x414.jpg"),
+            )
     }
 }
